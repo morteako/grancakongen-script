@@ -45,4 +45,5 @@ Saved 15 rows to /Users/mortenkolstad/grancakongen-script/results.csv
 
 Kopier linjene under Headeren, altså de som starter med et årstall.
 
-Lim disse inn i Resultater-tabben i [grancakongen-tider](https://docs.google.com/spreadsheets/d/16-gb4q-aAdpWsrwcn-91vOEqSNfND9xp8Sku4QVDi9s/edit?gid=1339766999#gid=1339766999), 
+Lim disse inn i Resultater-tabben i [grancakongen-tider](https://docs.google.com/spreadsheets/d/16-gb4q-aAdpWsrwcn-91vOEqSNfND9xp8Sku4QVDi9s/edit?gid=1339766999#gid=1339766999).
+La det være noen tomme rader mellom forskjellige folk, for å lettere kunne legge til flere senere osv
